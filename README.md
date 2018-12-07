@@ -9,3 +9,4 @@ Make sure to run the data_create.py script once before training to convert the n
 # Inference
 
 After training is done you can run the inference.py file to segment the test set.
+data_create2.py是我写的另外一个数据生成的代码
